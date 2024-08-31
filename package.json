@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "clear": "^0.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
